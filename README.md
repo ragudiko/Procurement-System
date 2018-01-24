@@ -142,5 +142,3 @@ d. IBM Graph
 
 ## Deploy the App --> is in progress. We are migrating ibm graph to janus graph.
 
-[] # (a. Click on the 'Deploy to Bluemix' button below.)
-[] #  ([![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.ibm.com/IBMDigital/Procurement-System))
